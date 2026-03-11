@@ -43,5 +43,12 @@ Run the application
 
 🎓 A version suitable for a university project.
 
+**DFD**
+
 ![photo_2026-03-11_09-57-02](https://github.com/user-attachments/assets/93ff36f4-7d07-4b5a-a8c8-0665a995ffe9)
+
+![photo_2020-08-24_21-19-25](https://github.com/user-attachments/assets/ce4a0a28-42cb-4f70-8990-0fd5021a5e13)
+
+**ERD**![photo_2020-08-23_23-29-01](https://github.com/user-attachments/assets/7d0b48f9-8498-448c-a31f-94eaef4db7e7)
+
 

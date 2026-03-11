@@ -42,3 +42,6 @@ Run the application
 📑 Full README.md with badges, screenshots, and installation
 
 🎓 A version suitable for a university project.
+
+![photo_2026-03-11_09-57-02](https://github.com/user-attachments/assets/93ff36f4-7d07-4b5a-a8c8-0665a995ffe9)
+
